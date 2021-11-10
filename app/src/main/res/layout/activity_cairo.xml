@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/cairo_four"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/cairo_one" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/side_nav_bar"
+            android:gravity="center_vertical"
+            android:paddingLeft="16dp"
+            android:paddingTop="16dp"
+            android:paddingBottom="8dp"
+            android:text="@string/cairo"
+            android:textColor="@color/white"
+            android:textSize="32sp" />
+
+        <TextView
+            android:id="@+id/about_cairo_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:textColor="?attr/colorPrimary"
+            android:text="@string/about_cairo_one" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                style="@style/ImageViewStyle"
+                app:srcCompat="@drawable/cairo_two" />
+
+            <ImageView
+                style="@style/ImageViewStyle"
+                app:srcCompat="@drawable/cairo_three" />
+
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/about_cairo_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:textColor="?attr/colorPrimary"
+            android:text="@string/about_cairo_one" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/cairo_four"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/cairo_four" />
+
+    </LinearLayout>
+
+</ScrollView>

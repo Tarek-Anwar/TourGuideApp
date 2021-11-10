@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_about_cairo">
+
+    <fragment
+        android:id="@+id/nav_about_cairo"
+        android:name="com.android.tourguide.Fragmet.CairoFragment"
+        android:label="@string/menu_about_cairo"
+        tools:layout="@layout/activity_cairo" />
+
+    <fragment
+        android:id="@+id/nav_historical"
+        android:name="com.android.tourguide.Fragmet.HistoricalFragmet"
+        android:label="@string/menu_historical"
+        tools:layout="@layout/fragment_list_place" />
+
+    <fragment
+        android:id="@+id/nav_shopping"
+        android:name="com.android.tourguide.Fragmet.ShoppingFragment"
+        android:label="@string/menu_shopping"
+        tools:layout="@layout/fragment_list_place" />
+
+    <fragment
+        android:id="@+id/nav_restaurants"
+        android:name="com.android.tourguide.Fragmet.RestaurantsFragment"
+        android:label="@string/menu_restaurants"
+        tools:layout="@layout/fragment_list_place"/>
+
+    <fragment
+        android:id="@+id/nav_streets"
+        android:name="com.android.tourguide.Fragmet.StreetsFragment"
+        android:label="@string/menu_streets"
+        tools:layout="@layout/fragment_list_place" />
+
+</navigation>

@@ -1,0 +1,199 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_historical">Historical</string>
+    <string name="menu_shopping">Shopping</string>
+    <string name="menu_restaurants">Restaurants</string>
+    <string name="menu_streets">Streets</string>
+    <string name="menu_about_cairo">About Cairo</string>
+
+    <string name="about_cairo_one">Cairo is the capital and largest city of Egypt. The Cairo metropolitan area, with a population of 21.3 million, is the largest metropolitan area in the Middle East, the largest metropolitan area in the Arab world, the second largest in Africa, and the world’s sixth largest. Cairo is associated with ancient Egypt, as the famous Giza pyramid complex and the ancient city of Memphis are located in its geographical area. Located near the Nile Delta,Cairo was founded in 969 AD during the Fatimid dynasty, but the land composing the present-day city was the site of Ancient National Capitals whose remnants remain visible in parts of Old Cairo. Cairo has long been a centre of the region\'s political and cultural life</string>
+    <string name="about_cairo_two">" and is titled \"the city of a thousand minarets\" for its preponderance of Islamic architecture. Cairo's historic center was awarded World Heritage Site-status in 1979.Cairo is considered a World City with a \"Beta +\" classification according to GaWC. Today, the Egyptian capital has the oldest and largest film and music industries in the Middle East and the Arab world, as well as the world's second-oldest institution of higher learning, Al-Azhar University. Many international media, businesses, and organizations have regional headquarters in the city; the Arab League has had its headquarters in Cairo for most of its existence. With a population of over 9 million spread over 453 km2 (175 sq mi), Cairo is by far the largest city in Egypt. An additional 9.5 million inhabitants live in close proximity to the city. Cairo, like many other megacities, suffers from high levels of pollution and traffic. The Cairo Metro is one of only two metro systems in Africa (the other being in Algiers, Algeria), and ranks amongst the fifteen busiest in the world, with over 1 billion annual passenger rides. The economy of Cairo was ranked first in the Middle East in 2005, and 43rd globally on Foreign Policy's 2010 Global Cities Index."</string>
+
+    <string name="cairo">Cairo,Egypt</string>
+
+    <string name="his_pyramids_about">The Giza pyramid complex is an archaeological site on the Giza plateau, on the outskirts of Cairo, Egypt. It includes the Three Great Pyramids, the Great Sphinx, several tombs, a workers\' village and an industrial complex. It is located in the Western Desert, about 9 km west of the Nile River in the old town of Giza, and about 13 km southwest of downtown Cairo.</string>
+    <string name="his_pyramids_name">The Pyramids</string>
+    <string name="his_pyramids_addeess">Nazlet El-Semman, Al Haram, Giza Governorate</string>
+    <string name="his_pyramids_phone">+20233835800</string>
+    <string name="his_pyramids_location">29.9792307,31.1339981</string>
+
+    <string name="his_EgyMuseum_about">The Egyptian Museum is one of the largest and most famous international museums, located in the heart of the Egyptian capital "Cairo" on the northern side of Tahrir Square. Its establishment dates back to 1835. It is considered one of the first museums in the world that was established to be a public museum, unlike the museums that preceded it. The museum includes more than 180,000 artifacts, the most important of which are the archaeological collections found in the tombs of the kings and the royal entourage of the middle family in Dahshur in 1894, The museum now houses the largest archaeological collection in the world that reflects all phases of ancient Egyptian history.</string>
+    <string name="his_EgyMuseum_name">The Egyptian Museum</string>
+    <string name="his_EgyMuseum_addeess">Ismailia, Qasr El Nil, Cairo Governorate</string>
+    <string name="his_EgyMuseum_phone">+2022582448</string>
+    <string name="his_EgyMuseum_location">30.0478001,31.2320908</string>
+
+    <string name="his_Azhar_about">Al-Azhar Mosque or Al-Azhar Mosque is one of the most important religious landmarks of Cairo, not only at the level of worship and spirituality, but at the level of studying Sharia sciences and at the level of the world for more than a thousand years. In addition, the Al-Azhar Mosque is an unmissable architectural masterpiece for foreign tourists, with its three minarets dating back to the 14-16 centuries AD and its spacious courtyard dating back to an earlier date.</string>
+    <string name="his_Azhar_name">"El-Azhar Mosque"</string>
+    <string name="his_Azhar_addeess">El-Darb El-Ahmar, Cairo Governorate</string>
+    <string name="his_Azhar_location">30.0460383,31.2624629</string>
+
+    <string name="his_Coptic_about">The Coptic Museum houses the largest collection of Coptic artifacts in the world and was inaugurated in 1910. The museum was established through the efforts of Marcus Simaika Pasha, a prominent Coptic figure who was vested in the preservation of Coptic heritage. Simaika Pasha bought and collected Coptic antiquities and various architectural elements from older churches that were undergoing renovation, and used them to built the museum and establish its collection.</string>
+    <string name="his_Coptic_name">"The Coptic Museum"</string>
+    <string name="his_Coptic_addeess">3 Mari Gerges, Kom Ghorab, Old Cairo, Cairo Governorate</string>
+    <string name="his_Coptic_phone">+20223628766</string>
+    <string name="his_Coptic_location">30.0056036,31.2301165</string>
+
+    <string name="his_Citadel_about">The Citadel of Sultan Salah al-Din al-Ayyubi (Saladin) is one of the most iconic monuments in Islamic Cairo, and among the most impressive defensive fortresses dating to the Middle Ages. Its strategic location on the Muqattam Hills gave it a formidable defensive position, and offered, as it still does today, an unrestricted panoramic view of Cairo.</string>
+    <string name="his_Citadel_name">"Salah Al-Din Al-Ayoubi Citadel"</string>
+    <string name="his_Citadel_addeess">Salah Salem St, Al Abageyah, El Khalifa, Cairo Governorate</string>
+    <string name="his_Citadel_phone">+20225121735</string>
+    <string name="his_Citadel_location">30.0292203,31.2574295</string>
+
+    Baron Empain Palace
+
+    <string name="his_Tower_about">The Cairo Tower is a tower located in the Egyptian capital, Cairo. It was built between 1956 and 1961 of reinforced concrete on the design of the Egyptian lotus flower, designed by engineer Naoum Shabib, and is located in the heart of Cairo on the island of Zamalek in the Nile River. Its height reaches 187 meters, which is 43 meters higher than the Great Pyramid of Giza.</string>
+    <string name="his_Tower_name">"Cairo Tower"</string>
+    <string name="his_Tower_addeess">Zamalek, Cairo Governorate</string>
+    <string name="his_Tower_phone">+20227365112</string>
+    <string name="his_Tower_location">30.045915,31.2221011</string>
+
+    <string name="his_Baron_about">Baron Empain\'s palace, with its Indian style, and its tower stands out in the desert landscape, is distinct from the rest of the city. The palace reflects the high status of its owner and marks a major milestone in the urban landscape of Heliopolis. Baron Empain\'s palace is the most prominent Monuments in the capital, its unique and innovative image attracting crowds of pedestrians on the road.</string>
+    <string name="his_Baron_name">Baron Empain Palace</string>
+    <string name="his_Baron_addeess">El-Orouba, El-Montaza, Heliopolis, Cairo Governorate 11757</string>
+    <string name="his_Baron_location">30.0866701,31.3281445</string>
+
+    <string name="his_Sphinx_about">The Great Sphinx of Giza is a giant 4,500-year-old limestone statue located near the Great Pyramid in Giza, Egypt. Measuring 240 feet (73 meters) long and 66 feet (20 meters) high, the Great Sphinx is one of the world\'s largest monuments. It is also one of the most recognizable relics of the ancient Egyptians, though the origins and history of the colossal structure are still debated.</string>
+    <string name="his_Sphinx_name">Great Sphinx of Giza</string>
+    <string name="his_Sphinx_addeess">Al Giza Desert, Giza Governorate</string>
+    <string name="his_Sphinx_location">29.9752687,31.1353787</string>
+
+    <string name="his_Opera_about">The Egyptian Opera House, opened in 1988 and located in its new building, which was built with a grant from the Japanese government to its Egyptian counterpart on the land of the island in Cairo. The house was built in the Islamic style. This great cultural edifice, which opened on October 10, 1988, is considered the alternative to the Khedivial Opera House, which was built by Khedive Ismail in 1869 and burned down on October 28, 1971, after it remained a cultural beacon for 102 years.</string>
+    <string name="his_Opera_name">Cairo Opera House</string>
+    <string name="his_Opera_addeess">Opera Square, Zamalek, Cairo Governorate</string>
+    <string name="his_Opera_phone">+20227390188</string>
+    <string name="his_Opera_location">30.0423613,31.2214795</string>
+
+    <string name="his_Church_about">The Hanging Church is located in the Old Cairo district, in the important archaeological area of Coptic Cairo. It is close to the Amr Ibn Al-Aas Mosque, the Ibn Ezra Synagogue, the Church of Saint Mina next to the Babylon Fortress, the Church of Martyr Mercurius (Abu Sefein), and many other churches. And it was called the suspended because it was built on two of the ancient towers of the Roman fortress (Babylon Fort), which was built by Emperor Trajan in the second century AD.</string>
+    <string name="his_Church_name">The Hanging Church</string>
+    <string name="his_Church_addeess">Kom Ghorab, Old Cairo, Cairo Governorate</string>
+    <string name="his_Church_location">30.0052663,31.2279939</string>
+
+    <string name="sho_Khan_about">Khan Al-Khalili, one of the old districts of Cairo, is a major tourist attraction for visitors to Cairo and Egypt in general. It is characterized by the presence of popular bazaars, shops and restaurants, and is also characterized by the large number of tourists and the familiarity of its residents with them. Khan Al-Khalili neighborhood was a source of inspiration for many Egyptian writers, most notably the writer Naguib Mahfouz, who wrote one of his novels that takes place in the neighborhood and bears his name \"Khan Al-Khalili\", which was turned into a movie starring actor Imad Hamdi.</string>
+    <string name="sho_Khan_name">Khan el-Khalili</string>
+    <string name="sho_Khan_addeess">El-Gamaleya, El Gamaliya, Cairo Governorate</string>
+    <string name="sho_Khanlocation">30.0477386,31.2600651</string>
+
+    <string name="sho_Festival_about">This wonderful mall was established by Al-Futtaim Real Estate Group and its construction was completed in 2013. This huge mall is located on a very large area estimated at about 700 acres, making it the best shopping mall in Cairo. On this large area there are many services such as renting or selling apartments There are world-class schools in education</string>
+    <string name="sho_Festival_name">Cairo Festival City Mall</string>
+    <string name="sho_Festival_addeess">108.04 km، Cairo Festival City Mall, Cairo Festival City, Ring Road, New Cairo، Cairo Governorate 11385</string>
+    <string name="sho_Festival_phone">+20226186000</string>
+    <string name="sho_Festival_location">30.0290116,31.4108183</string>
+
+    <string name="sho_Stars_about">This magnificent and huge mall is located in Nasr City in Cairo. This mall was opened in 2004, where the City States have high quality decorations on each floor. The floors are characterized by an attractive design, and in this mall there are many stores such as: clothing stores, including women\'s and men\'s, and shoe stores to suit your taste. There are stores for accessories, household needs, sportswear, bags and electrical appliances, where a full trip can be made in the City Stars complex.</string>
+    <string name="sho_Stars_name">City Stars Mall</string>
+    <string name="sho_Stars_addeess">Masaken Al Mohandesin, Nasr City, Cairo Governorate</string>
+    <string name="sho_Stars_phone">+20224802014</string>
+    <string name="sho_Stars_location">30.0736176,31.3418755</string>
+
+    <string name="sho_Arabia_about">Mall of Arabia is one of the largest shopping centers in Cairo, Egypt. It is located in the Sixth of October City. It opened in late 2010 and includes a large number of various shops, in addition to branches of telecommunications companies, banks, cinemas, gaming areas, and a huge hall that includes many restaurants and so on. It is considered one of the best commercial complexes comprehensive in Egypt.</string>
+    <string name="sho_Arabia_name">Mall of Arabia</string>
+    <string name="sho_Arabia_addeess">Al Giza Desert, Giza Governorate</string>
+    <string name="sho_Arabia_phone">+20238260200</string>
+    <string name="sho_Arabia_location">30.0071209,30.9726564</string>
+
+    <string name="sho_Downtown_about">The Downtown shopping complex is located in the Katameya area, where it was recently opened and is characterized by being an open complex that includes the most famous international brands in various fields. The shopping complex contains many international shops, restaurants and cafes, as it is characterized by the presence of a dancing fountain in its outer courtyard and is one of the most beautiful markets in Cairo</string>
+    <string name="sho_Downtown_name">Downtown Katameya</string>
+    <string name="sho_Downtown_addeess">Area A-City Center, 5th District, Road 90، Cairo Governorate</string>
+    <string name="sho_Downtown_phone">+20223146182</string>
+    <string name="sho_Downtown_location">30.0071209,30.9726564</string>
+
+    <string name="sho_Genena_about">Genena Mall was established in 1999 on El Batrawy Street in Nasr City. Genena Mall was named after Mohamed Abdel Hamid Genena. Genena Mall consists of 5 floors, which contains accessories and gift shops, clothing stores, leather products, furniture, mobile and computer supplies, and there are also 6 cinemas. In addition to The natural ice skating rink, along with about 10 large restaurants, besides that the mall contains 300 shops</string>
+    <string name="sho_Genena_name">Genena Mall</string>
+    <string name="sho_Genena_addeess">St, off، 9 El-Batrawy، Abbas el-Akkad، St، Nasr City, Cairo Governorate 11432</string>
+    <string name="sho_Genena_phone">+20220820621</string>
+    <string name="sho_Genena_location">30.1215095,31.1036564</string>
+
+    <string name="sho_Sun_about">One of the largest malls in Cairo and one of the modern Cairo markets, where you will find many famous international and local brands. The complex includes a large number of shops, many international restaurants, cafes, cinemas and entertainment places</string>
+    <string name="sho_Sun_name">Sun City Mall</string>
+    <string name="sho_Sun_addeess">Abdullah Ibn Salma Street, the northern 90th, near Gate 6, Al Rehab</string>
+    <string name="sho_Sun_location">30.0413088,31.4764237</string>
+
+    <string name="sho_Tiba_about">Tiba Outlet Mall is the first outlet mall to be established in Egypt and in the heart of Nasr City, Cairo. The commercial center, which is located on 2866 square meters, contains 34 outlets, games for children, restaurants and a cinema with an underground garage enough for 107 vehicles and a Carrefour store.</string>
+    <string name="sho_Tiba_name">Tiba Outlet Mall</string>
+    <string name="sho_Tiba_addeess">11371, 75 El-Nasr Rd</string>
+    <string name="sho_Tiba_phone">+20222622022</string>
+    <string name="sho_Tiba_location">30.067496,31.327877</string>
+
+    <string name="res_AbouElsid_about">One of the best restaurants in Cairo and enjoys a wide reputation in the Egyptian capital, Abu El Sid Restaurant is distinguished by its decoration inspired by the Fatimid state in Egypt and you find this in the woodwork and lighting. The restaurant offers a wide menu of authentic Egyptian cuisine, in addition to delicious appetizers.</string>
+    <string name="res_AbouElsid_name">Abou El Sid</string>
+    <string name="res_AbouElsid_addeess">157 26th of July Corridor, St, El Zamalek, Cairo Governorate</string>
+    <string name="res_AbouElsid_phone">+20227359640</string>
+    <string name="res_AbouElsid_location">30.0594256,31.222013</string>
+
+    <string name="res_Rotating_about">One of the most luxurious restaurants in Cairo, because it is located in the Cairo Tower on the fourteenth floor, to provide a wonderful view of the city from a height of approximately 160 meters. What distinguishes it is that it makes a full turn around itself within an hour to provide its visitors with a 360-degree panoramic view. The restaurant offers a wide menu of the most delicious Arabic and oriental dishes.</string>
+    <string name="res_Rotating_name">360 Rotating Tower Restaurant</string>
+    <string name="res_Rotating_addeess">Cairo Tower, El Borg Street, Zamalek, Giza</string>
+    <string name="res_Rotating_phone">+20223651234</string>
+    <string name="res_Rotating_location">30.0457584,31.2230024</string>
+
+    <string name="res_Naguib_about">This authentic Egyptian café and restaurant in Khan El Khalili is definitely worth a visit, not only for the delicious menu it offers to visitors, especially the wonderful Egyptian pan-fried dishes, but also to the splendor of the decor, beautiful designs and wonderful surroundings, not to mention the oud band that also gives this place an atmosphere Very authentic and lively.</string>
+    <string name="res_Naguib_name">Naguib Mahfouz Coffee Shop</string>
+    <string name="res_Naguib_addeess">5th Sekat Al Badstan، El Gamaliya, Cairo Governorate</string>
+    <string name="res_Naguib_phone">+20225903788</string>
+    <string name="res_Naguib_location">30.0480626,31.2594298</string>
+
+    <string name="res_Tarek_about">For the most beautiful experience of discovering the Egyptian koshary, head to Abu Tarek Restaurant in the city center. Since 1950, Abu Tarek has been photographed on CNN and is now famous all over the world for preparing this famous dish, which consists of a mixture of rice and pasta. And lentils, with a spicy tomato sauce garnished with chickpeas and crunchy fried onions, with garlic vinegar or chili sauce.</string>
+    <string name="res_Tarek_name">Koshary Abu Tarek</string>
+    <string name="res_Tarek_addeess">16 Maarouf St., intersection of Champollion St., near the High Court</string>
+    <string name="res_Tarek_phone">+20225775935</string>
+    <string name="res_Tarek_location">30.0501804,31.2356132</string>
+
+    <string name="res_Taboula_about">Tabbouleh has a warm local atmosphere in the heart of the Egyptian capital, Cairo, and offers its visitors traditional Arab hospitality and the best delicacies from the Middle East. Perhaps the most famous of these dishes is the Lebanese salad, along with other dishes that include grills and salads with Egyptian mezze. You can then round off the evening by enjoying traditional Middle Eastern sweets and listening to classic Arabic tunes, with songs of Umm Kulthum and Fairouz you can hear around the corner.</string>
+    <string name="res_Taboula_name">Taboula</string>
+    <string name="res_Taboula_addeess">The Counselor, 1 Latin America St Street, Mahmoud Fahmy</string>
+    <string name="res_Taboula_phone">+20227925261</string>
+    <string name="res_Taboula_location">30.0398771,31.2305309</string>
+
+    <string name="res_Saigon_about">If you are looking for a variety of options available in Chinese, Tail, Indonesian, Singaporean and Malay, look into the background. A wonderful restaurant in the “Fairmont Nile City” hotel, and attached to it a luxurious elegant lounge “Lounge” with a wonderful view of the Nile. Takaki, all fresh, and subtly for being the gateway to Asian cuisine</string>
+    <string name="res_Saigon_name">Taboula</string>
+    <string name="res_Saigon_addeess">Fairmont Nile City, Nile City Towers - Ramlet Beaulac, Cairo</string>
+    <string name="res_Saigon_phone">+20224619494</string>
+    <string name="res_Saigon_location">30.0721937,31.225836</string>
+
+    <string name="str_Khan_about">Among the most famous tourist streets in Cairo, which hundreds of thousands of tourists visit to buy souvenirs of imitation Pharaonic statues, jewelry bearing famous Pharaonic symbols, engraved and decorated copper and utensils, gold and diamond artifacts, and traditional women\'s dress. This is in addition to the famous Al-Fishawy Café, which dates back to the 1870s. The history of Khan al-Khalili dates back to the Mamluk era, which does not exceed 6 centuries, yet it still preserves its ancient design, as most of its ancient houses retain the shape in which they were built for the first time and its primitive facilities are still present and used</string>
+    <string name="str_Khan_name">Khan el-Khalili</string>
+    <string name="str_Khan_addeess">El-Gamaleya, El Gamaliya, Cairo Governorate</string>
+    <string name="str_Khan_location">30.0477386,31.2600651</string>
+
+    <string name="str_Azhar_about">One of the most important streets in Cairo for tourism. The street starts from the Ataba area and ends in the study, and connects through this distance between the most important streets of Cairo and its regions. During their visit to Al-Azhar Street, tourists can visit two of the most famous mosques in Cairo and its scientific niches: Al-Azhar Mosque and Al-Hussein Mosque, and win unforgettable spiritual minutes inside the two mosques while taking the most wonderful pictures of their architectural treasures derived from the heritage of Islamic civilization. For women who love gold jewellery, or men who want to buy valuable gifts for the family, they can pass by the Al Sagha area and buy the most beautiful models and shapes. Khan Al-Khalili is located within Al-Azhar Street for lovers of various valuable souvenirs.</string>
+    <string name="str_Azhar_name">Al-Azhar</string>
+    <string name="str_Azhar_addeess">El-Darb El-Ahmar, Cairo Governorate</string>
+    <string name="str_Azhar_location">30.045688,31.2604964</string>
+
+    <string name="str_Moez_about">One of the best streets in Cairo, an expression of the Egyptian heritage, which attracts the attention of thousands of tourists thanks to the ancient and ancient architectural design of its houses, some of which have been converted into tourist attractions or cultural houses where stone construction, wooden mashrabiyas and antique doors. The street is also distinguished by vendors who rent the ancient Egyptian traditional dress “Bishah and Al Mulafa Al-Laf” to local and foreign tourists, where the visitor can take a picture of him in this outfit. At night, the palaces and cultural houses on Al-Moez Street, the most famous of which is the Suhaimi House, host cultural evenings and traditional singing groups.</string>
+    <string name="str_Moez_name">Al Moez</string>
+    <string name="str_Moez_addeess">El-Gamaleya, El Gamaliya, Cairo Governorate</string>
+    <string name="str_Moez_location">30.0509306,31.2593861</string>
+
+    <string name="str_Ghouria_about">An ancient street dating back to the Mamluk era, specifically in the mid-13th century, and administratively affiliated to Al-Gamaliya district. In the past, the street was distinguished by a number of large multi-storey shops, where merchants used to bring their goods to sell in the famous commercial district. Now the ancient street leads you to a group of the most important monuments of Fatimid, Ayyubid and Mamluk Cairo, such as the Agency and Sabil Miah Al-Ghouri, Al-Ghouri School which is famous for its white marble floors decorated with art, precision and mastery, Bab Al-Futuh, Tekke Al-Silahdar, and Al-Aqmar Mosque. The street also leads to the tomb of Hussein, Khan al-Khalili, and the Al-Azhar Mosque.</string>
+    <string name="str_Ghouria_name">Al Ghouria</string>
+    <string name="str_Ghouria_addeess">Al-Ghouria Street, Al-Darb Al-Ahmar, Cairo Governorate</string>
+    <string name="str_Ghouria_location">30.0443276,31.2565827</string>
+
+    <string name="str_Kasr_about">It is one of the most important streets in downtown Cairo, which has been reconstructed over the decades of the history of the royal rule of the family of Muhammad Ali Pasha in Egypt. The street is famous for its giant real estate with luxurious European architecture and elegant clothing stores. Nearby attractions such as the Egyptian Museum, the Opera, and the island\'s parks and clubs. Among its most important landmarks is the Qasr al-Nil Bridge and the two lions of Qasr al-Nil, which are located on both ends.</string>
+    <string name="str_Kasr_name">Kasr Al Nile</string>
+    <string name="str_Kasr_addeess">Qasr Al-Nil Street, Al-Fawala, Abdeen, Cairo Governorate</string>
+    <string name="str_Kasr_location">30.0498444,31.2441483</string>
+
+    <string name="str_Talaat_about">Talaat Harb Street and Square is one of the main streets in downtown Cairo, which extends from Tahrir Square to 26th of July Street, and it dates back to the era of Khedive Ismail. Talaat Harb Street is famous for the statue of the famous Egyptian economist, Talaat Harb, which is in the middle of the square, with famous cinemas such as Metro, Miami and Radio Cinemas, estates with grandiose antique European architecture, clothing stores, and the famous Groppi bakery, sweets and ice cream shop.</string>
+    <string name="str_Talaat_name">Talaat Harb</string>
+    <string name="str_Talaat_addeess">Talaat Harb Street, Cairo Governorate</string>
+    <string name="str_Talaat_location">30.048682,31.2371372</string>
+
+    <string name="str_Zuwayla_about">Bab Zuweila or the Metwally Gate is one of the gates of \"Old Cairo\" in the Egyptian capital, Cairo. This door or gate is famous for being the gate under which the heads of the messengers of Hulagu, the leader of the Tatars, were hung when they came to threaten Egypt, which eventually led to the defeat of the Mongols and the emergence of the Mamluk state. Ottoman, heralding the end of the Mamluk state. The door was built in the year 485 AH (1092 AD), and it consists of a huge building block 25 meters deep, 25.72 meters wide, and 24 meters high from street level. The door consists of two round towers, one third of the plant mass emerges outside the wall, and in the middle of the two towers is an open corridor that leads to the entrance door.</string>
+    <string name="str_Zuwayla_name">Zuwayla Gate</string>
+    <string name="str_Zuwayla_addeess">Al Motaz Ldin Allah, El-Darb El-Ahmar, Cairo Governorate</string>
+    <string name="str_Zuwayla_location">30.0429345,31.2557213</string>
+
+    <string name="str_Nile_about">One of the best places to stay up late in Cairo at night, in front of the beautiful view of the Nile, is the independence of one of the fixed or moving floating ships, on which various artistic performances are presented, such as concerts, singing, oriental and folk dances, in addition to the most delicious meals and the most delicious drinks. Perhaps the most famous of them is Nile Maxim in front of the Marriott Hotel in Zamalek, the Grand Hyatt of the hotel of the same name in the Garden City area, the Saraya and Nile City in Zamalek or the Gezira area near the October Bridge, among others. And if you want a Nile cruise away from the hustle and bustle, you can take a simple traditional boat from the Corniche area in Zamalek or Maadi, where you can enjoy an atmosphere of calm and relaxation alone in the presence of the great Nile. But if you like to mingle with the local population in its simplest form, here are the Nile cruises by river bus, which is a means of recreational transportation at the same time. Do not miss the best aspects of tourism in Cairo and enjoy a wonderful Nile cruise by any means of excursion and transportation that suits you.</string>
+    <string name="str_Nile_name">The Nile</string>
+    <string name="str_Nile_addeess">Nile River, Cairo</string>
+    <string name="str_Nile_location">30.0594699,31.188424</string>
+    <string name="place_name">Place Name</string>
+    <string name="more_info">More Info</string>
+</resources>
